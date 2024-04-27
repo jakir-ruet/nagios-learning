@@ -4,7 +4,7 @@
 
 ## Visit Us [Lapis Soft](http://www.lapissoft.com)
 
-### Welcome to Nagios
+### Welcome to [Nagios](https://www.nagios.org)
 
 Nagios is an open-source monitoring and alerting system that helps organizations monitor the health and performance of their IT infrastructure. It's widely used for monitoring servers, network devices, applications, and services.
 
