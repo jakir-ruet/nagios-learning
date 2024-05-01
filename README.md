@@ -26,6 +26,8 @@ rm promtool # remove unnecessary directories [optional]
 ./prometheus
 http://localhost/IP:9090
 ```
+[Architecture](https://prometheus.io/docs/introduction/overview/)
+![Architecture](/img/architecture.png 'Architecture')
 
 ### Courtesy of Jakir
 [![LinkedIn][linkedin-shield-jakir]][linkedin-url-jakir]
