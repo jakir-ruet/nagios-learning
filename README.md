@@ -4,28 +4,12 @@
 
 ## Visit Us [Lapis Soft](http://www.lapissoft.com)
 
-### Welcome to [Nagios](https://www.nagios.org)
+### Welcome to [Nagios](https://prometheus.io/docs/introduction/overview/)
 
-Nagios is an open-source monitoring and alerting system that helps organizations monitor the health and performance of their IT infrastructure. It's widely used for monitoring servers, network devices, applications, and services.
+Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud. Since its inception in 2012, many companies and organizations have adopted Prometheus, and the project has a very active developer and user community. It is now a standalone open source project and maintained independently of any company. To emphasize this, and to clarify the project's governance structure, Prometheus joined the Cloud Native Computing Foundation in 2016 as the second hosted project, after Kubernetes.
 
 #### Prerequisites
-Important: Nagios Enterprises highly recommends and will only support installing Nagios XI on a newly installed, "clean" system (a bare minimal install with nothing else installed or configured).
 
-#### Installation on Ubuntu Linux
-Manual Installation
-```bash
-cd /opt/
-wget https://assets.nagios.com/downloads/nagiosxi/xi-latest.tar.gz
-tar xzf xi-latest.tar.gz
-cd nagiosxi
-./fullinstall
-http://<server_address>/nagiosxi
-```
-
-Quick Installation
-```bash
-curl https://assets.nagios.com/downloads/nagiosxi/install.sh | sh
-```
 
 ### Courtesy of Jakir
 [![LinkedIn][linkedin-shield-jakir]][linkedin-url-jakir]
